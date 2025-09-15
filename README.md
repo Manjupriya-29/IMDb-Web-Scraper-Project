@@ -7,7 +7,7 @@ A Python-based web scraping project that extracts the first batch of movie title
 ## 📁 Project Files
 
 *   `imdb_scraper.py` - The main Python script.
-*   `imdb_top_movies.csv` - The output dataset file (see below).
+*   `imdb_top_movies.csv` - The output dataset file.
 *   `README.md` - This file.
 
 ## 🎯 Project Overview
